@@ -1,7 +1,7 @@
 # Stuff for Automating Things with Accounting/Finance Applications
 
 Want to automate things with GnuCash or KMyMoney?
-Need to write some special programs reading / writing your GnuCash/KMyMoney XML files in Java or Python, with a convenient high-level API?
+Need to write some special programs reading/writing your GnuCash/KMyMoney XML files in Java or Python, with a convenient high-level API?
 
 You've found the right place.
 
@@ -22,6 +22,6 @@ As opposed to so many other GitHub repos out there, all the software here is:
 
 # Status
 
-A major release both for `JGnuCashLibNTools` and `JKMyMoneyLibNTools`
-is in the pipeline. Will probably be finished by end of march 2026.
+The last release both for `JGnuCashLibNTools` and `JKMyMoneyLibNTools`
+was in april 2026.
 
