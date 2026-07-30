@@ -23,5 +23,5 @@ As opposed to so many other GitHub repos out there, all the software here is:
 # Status
 
 The last release both for `JGnuCashLibNTools` and `JKMyMoneyLibNTools`
-was in april 2026.
+was in July 2026.
 
