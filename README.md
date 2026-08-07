@@ -17,8 +17,8 @@ As opposed to so many other GitHub repos out there, all the software here is:
 
 |  Language | GnuCash           | KMyMoney           | Note           |
 |-----------|-------------------|--------------------|----------------|
-| Java      | JGnuCashLibNTools | JKMyMoneyLibNTools | Full-fledged, read/write API and tools |
-| Python    | ./.               | (coming)           | Comparatively simple, read-only API    |
+| Java      | JGnuCashLibNTools | JKMyMoneyLibNTools | Full-fledged, read/write APIs and tools. Well tested |
+| Python    | (coming)          | (coming)           | Comparatively simple and low-level, read-only API/Tools. Not well tested  |
 
 # Status
 
