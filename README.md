@@ -1,3 +1,6 @@
+**!!! THIS SITE HAS MOVED !!!**
+[New site](https://jross765.codeberg.page/)
+
 # Stuff for Automating Things with Accounting/Finance Applications
 
 Want to automate things with GnuCash or KMyMoney?
